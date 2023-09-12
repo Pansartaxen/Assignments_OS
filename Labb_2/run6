@@ -1,0 +1,41 @@
+#!/bin/bash
+#chmod u+x example.sh
+./optimal.a 1 128 mp3d.mem;
+./optimal.a 1 256 mp3d.mem;
+./optimal.a 1 512 mp3d.mem;
+./optimal.a 1 1024 mp3d.mem;
+
+./optimal.a 2 128 mp3d.mem;
+./optimal.a 2 256 mp3d.mem;
+./optimal.a 2 512 mp3d.mem;
+./optimal.a 2 1024 mp3d.mem;
+
+./optimal.a 4 128 mp3d.mem;
+./optimal.a 4 256 mp3d.mem;
+./optimal.a 4 512 mp3d.mem;
+./optimal.a 4 1024 mp3d.mem;
+
+./optimal.a 8 128 mp3d.mem;
+./optimal.a 8 256 mp3d.mem;
+./optimal.a 8 512 mp3d.mem;
+./optimal.a 8 1024 mp3d.mem;
+
+./optimal.a 16 128 mp3d.mem;
+./optimal.a 16 256 mp3d.mem;
+./optimal.a 16 512 mp3d.mem;
+./optimal.a 16 1024 mp3d.mem;
+
+./optimal.a 32 128 mp3d.mem;
+./optimal.a 32 256 mp3d.mem;
+./optimal.a 32 512 mp3d.mem;
+./optimal.a 32 1024 mp3d.mem;
+
+./optimal.a 64 128 mp3d.mem;
+./optimal.a 64 256 mp3d.mem;
+./optimal.a 64 512 mp3d.mem;
+./optimal.a 64 1024 mp3d.mem;
+
+./optimal.a 128 128 mp3d.mem;
+./optimal.a 128 256 mp3d.mem;
+./optimal.a 128 512 mp3d.mem;
+./optimal.a 128 1024 mp3d.mem;

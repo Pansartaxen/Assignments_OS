@@ -1,0 +1,41 @@
+#!/bin/bash
+#chmod u+x example.sh
+./fifo.a 1 128 mult.mem;
+./fifo.a 1 256 mult.mem;
+./fifo.a 1 512 mult.mem;
+./fifo.a 1 1024 mult.mem;
+
+./fifo.a 2 128 mult.mem;
+./fifo.a 2 256 mult.mem;
+./fifo.a 2 512 mult.mem;
+./fifo.a 2 1024 mult.mem;
+
+./fifo.a 4 128 mult.mem;
+./fifo.a 4 256 mult.mem;
+./fifo.a 4 512 mult.mem;
+./fifo.a 4 1024 mult.mem;
+
+./fifo.a 8 128 mult.mem;
+./fifo.a 8 256 mult.mem;
+./fifo.a 8 512 mult.mem;
+./fifo.a 8 1024 mult.mem;
+
+./fifo.a 16 128 mult.mem;
+./fifo.a 16 256 mult.mem;
+./fifo.a 16 512 mult.mem;
+./fifo.a 16 1024 mult.mem;
+
+./fifo.a 32 128 mult.mem;
+./fifo.a 32 256 mult.mem;
+./fifo.a 32 512 mult.mem;
+./fifo.a 32 1024 mult.mem;
+
+./fifo.a 64 128 mult.mem;
+./fifo.a 64 256 mult.mem;
+./fifo.a 64 512 mult.mem;
+./fifo.a 64 1024 mult.mem;
+
+./fifo.a 128 128 mult.mem;
+./fifo.a 128 256 mult.mem;
+./fifo.a 128 512 mult.mem;
+./fifo.a 128 1024 mult.mem;
